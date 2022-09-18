@@ -5,6 +5,10 @@ Static timing analysis (STA) is a method of validating the timing performance of
 
 ![image](https://user-images.githubusercontent.com/110079770/190552665-bf99cee6-aba9-40b2-a0a8-101de7b8d329.png)
 
-
+## Example Of Timing Paths
 
 ![image](https://user-images.githubusercontent.com/110079770/190560524-e101803d-cb67-4fc0-9532-a50b12e61c36.png)
+
+## Types Of Checks to be Performed 
+
+![image](https://user-images.githubusercontent.com/110079770/190888247-335fa2a4-0370-498c-a171-d0b9fdbfb558.png)
