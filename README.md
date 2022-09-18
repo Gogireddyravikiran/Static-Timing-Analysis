@@ -16,8 +16,9 @@ Static timing analysis (STA) is a method of validating the timing performance of
 ![image](https://user-images.githubusercontent.com/110079770/190888247-335fa2a4-0370-498c-a171-d0b9fdbfb558.png)
 
 ## Slew/Transition Analysis
-### Two Types 
+ 
 ``` 
+Two Types Slew/Transition Analysis.
 Data(max/min)
 clock(max/min)
 
