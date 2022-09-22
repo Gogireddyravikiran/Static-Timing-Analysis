@@ -1,3 +1,5 @@
+![Screenshot from 2022-08-15 17-17-44](https://user-images.githubusercontent.com/69398841/184629923-4325bf41-9446-4510-a93a-1fa72bdca850.png)
+
 # Static-Timing-Analysis
 Static timing analysis (STA) is a method of validating the timing performance of a design by checking all possible paths for timing violations. STA breaks a design down into timing paths, calculates the signal propagation delay along each path, and checks for violations of timing constraints inside the design and at the input/output interface.
 
@@ -516,3 +518,22 @@ After considering additonal pessimism. <br>
 
 - Clock analysis is highly dependent on on-chip variation and pessimism removal. <br>
 
+
+
+
+## 14. Contributors 
+
+- **GogiReddy Ravi Kiran Reddy** 
+- **Kunal Ghosh** 
+
+
+
+## 15. Acknowledgments
+
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+
+## 16. Contact Information
+
+- GogiReddy Ravi Kiran Reddy, Postgraduate Student, International Institute of Information Technology, Bangalore.
+- Email: gogireddyravikiranreddy1@gmail.com
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
