@@ -518,7 +518,25 @@ After considering additonal pessimism. <br>
 
 - Clock analysis is highly dependent on on-chip variation and pessimism removal. <br>
 
+## static timing analysis-2
 
+### report_at command:
+   
+![image](https://user-images.githubusercontent.com/110079770/193732335-2b6f4796-aaac-492c-8183-6d99e62aad20.png)
+
+
+
+![image](https://user-images.githubusercontent.com/110079770/193745293-a7b8145c-d558-4b7f-af1d-9e647f7a6704.png)
+
+for launch path consider late delays and for capture path consider early paths.
+
+![image](https://user-images.githubusercontent.com/110079770/193746489-719b08a5-ee73-46cb-b80f-2ff8aa29d612.png)
+
+
+
+problem
+
+![image](https://user-images.githubusercontent.com/110079770/193755986-eb16ee2d-415f-4d66-a088-df8ce7f16b08.png)
 
 
 ## 14. Contributors 
